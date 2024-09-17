@@ -1,0 +1,15 @@
+.colorOne {
+  color: red;
+}
+
+.colorTwo {
+  color: rgb(0, 0, 255);
+}
+
+.colorThree {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.colorFour {
+  color: #006dcc;
+}
