@@ -12,4 +12,5 @@
 
 .colorFour {
   color: #006dcc;
+  border: 3px solid currentColor;
 }

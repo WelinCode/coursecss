@@ -1,0 +1,14 @@
+h2 {
+  color: #00f;
+}
+
+/* Selectores de clases */
+.spanOne {
+  color: #41006f;
+}
+
+/* Selectores de ID */
+
+#pruebaID {
+  color: #f00;
+}
