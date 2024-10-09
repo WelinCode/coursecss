@@ -1,0 +1,20 @@
+.pseudo > h2 {
+  color: #000000;
+}
+
+.hoverlink:hover {
+  color: #f00;
+  border: 2px solid #000;
+}
+
+.hoverlinkTwo:hover {
+  outline: 2px solid #000;
+}
+
+.hoverlinkThree:active {
+  outline: 5px solide #000;
+}
+
+.pseudo > input:focus {
+  border: 5px solid #000;
+}

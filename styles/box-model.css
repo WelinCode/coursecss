@@ -1,0 +1,11 @@
+.box-model {
+  background-color: beige;
+  width: 400px;
+  height: auto;
+
+  padding-bottom: 40px;
+
+  border: 2px solid black;
+  border-radius: 4px;
+  margin: 30px 0 0 20px;
+}
